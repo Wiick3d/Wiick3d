@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on ACL **Implementing ACL in an instution**
 
+- 🌱 I’m currently learning Ethical hacking **CEH, EHE**
+
+- 💬 Ask me about Pentesting,System Security **Bash, Hydra**
+
 - 📫 How to reach me **raghulsa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
