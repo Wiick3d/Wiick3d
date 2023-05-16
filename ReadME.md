@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghul</h1>
 <h3 align="center">A passionate Cyber Security enthusiast</h3>
 
-- 🌱 I’m currently learning **Offensive Security, Fundamental of Redhat Linux Enterprise, CEH**
+- 🌱 I’m currently learning **Offensive Security, Fundamental of Redhat Linux Enterprise**
 
 - 💬 Ask me about **Python, System reconnaissance, System Secuirty**
 
